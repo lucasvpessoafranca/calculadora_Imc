@@ -1,6 +1,6 @@
 # calculadora_Imc
 Calculadora de IMC feita em JS puro
-![Logo do projeto](http://logo_link)
+![Tela inicial ](https://github.com/lucasvpessoafranca/calculadora_Imc/blob/main/telainicial.png)
  
  
  
@@ -21,7 +21,7 @@ Basicamente, Inserir o peso , altura e receberá o resultado.
  
  
 ## Links
- https://github.com/lucasvpessoafranca/calculadora_Imc
+ ![LINK] (https://github.com/lucasvpessoafranca/calculadora_Imc)
  
  
 ## Versão
@@ -31,7 +31,7 @@ Basicamente, Inserir o peso , altura e receberá o resultado.
  
 ## @Autor@
  
-* **Lucas França**: @lucasvpessoafranca (https://github.com/lucasvpessoafranca)
+* **Lucas França**: [@lucasvpessoafranca] (https://github.com/lucasvpessoafranca)
  
  
 Por favor, me siga no github.
